@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"Lab1","c":"Lab","l":"getLetterGrade(double)"},{"p":"Lab1","c":"Lab","l":"getMyID()"},{"p":"Lab1","c":"Lab","l":"Lab()","url":"%3Cinit%3E()"}]
