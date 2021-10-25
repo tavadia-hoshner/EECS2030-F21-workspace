@@ -45,7 +45,9 @@ public class Engrave {
 	 * Is the main method that calls upon drawIntervals() and drawLine(), it prints out the main intervals that needs to be engraved on the measuring cups.
 	 * @param tickLength is  the  number  of  dashes  that  is printed next to the numbers.
 	 * @param magnitude points  to  the  capacity  of  the  cup. It is the main factor that decides how many intervals need to be drawn and what would the magnitude of the measurement be. 
+	 * @pre magnitude>=0
 	 */
+	
 	public void engrave(int tickLength, int magnitude) {
 		if(magnitude>0) {
 			this.drawnObject.add("["+tickLength+", "+magnitude+"]");
