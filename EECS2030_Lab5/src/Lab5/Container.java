@@ -1,6 +1,6 @@
 package Lab5;
 
-public class ContainerOrig {
+public class Container {
 	// Do not change the value of the following constants.
 	protected final int ORIGINAL_SIZE = 10; 
 	protected Object[] list; // is a container that stores the element of MyList
@@ -51,7 +51,7 @@ public class ContainerOrig {
  * elements to the list.
  *
  */
-class MyList extends ContainerOrig{
+class MyList extends Container{
 	/**
 	 * This is the default constructor that sets all the instance variables to their defualt value. 
 	 */
@@ -144,7 +144,7 @@ class MyList extends ContainerOrig{
 
 }
 
-class MySet extends ContainerOrig{
+class MySet extends Container{
 	public MySet() {
 		set = new Object[ORIGINAL_SIZE];
 		size = 0; 
