@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"Lab4","c":"Game","l":"Game()","url":"%3Cinit%3E()"},{"p":"Lab4","c":"Map","l":"Map()","url":"%3Cinit%3E()"},{"p":"Lab4","c":"Player","l":"Player()","url":"%3Cinit%3E()"},{"p":"Lab4","c":"Role","l":"role"},{"p":"Lab4","c":"Role","l":"Role(char)","url":"%3Cinit%3E(char)"}]
